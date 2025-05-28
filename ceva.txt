@@ -1,0 +1,957 @@
+=== OUTAGE INFORMATION ===
+
+Title:       27.05.2025 08:00 - 16:00  Judet: CONSTANTA Localitate: CERNAVODA
+Description:       Strada: CU FABRICA DE BETOANE, ROMPETROL TITEI - INTRERUPERE TOTALA. Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 15:42:27 +0300
+
+Title:       28.05.2025 08:00 - 16:00  Judet: CONSTANTA Localitate: CONSTANTA
+Description:       Strada: CU BLOCURILE: 21A, 21B - STRADA NUFARULUI NR. 5-6, BLOC 5A - STRADA SUCEAVA NR. 3, BLOCURILE: 4A, 4B, 4C - STRADA VIITORULUI NR. 2-6, GRADINITA CU P. P. NR. 14 (CASUTA DE TURTA DULCE) - ALEEA DEALULUI NR. 1, FACULTATEA DE FARMACIE (UNIVERSITATEA OVIDIUS) SI CABINETE MEDICALE CMI SI STOMATOLOGIE - ALEEA DEALULUI NR. 1 - INTRERUPERE TOTALA. Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:41:58 +0300
+
+Title:       29.05.2025 09:00 - 12:00  Judet: CONSTANTA Localitate: CONSTANTA
+Description:       Strada: CARTIER PALAZU MARE, CU BLOC NOU  (CAMBELA PROD SRL), SCARA C, ASOCIATIA DE PROPRIETARI PALAZ - STRADA PAPADIEI NR. 6 - INTRERUPERE TOTALA. Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:41:26 +0300
+
+Title:       28.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: JUPITER
+Description:       Strada: CU STRADA AUREL VLAICU - INTRERUPERE PARTIALA. Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 15:41:09 +0300
+
+Title:       27.05.2025 15:30 - 18:30  Judet: CONSTANTA Localitate: MANGALIA
+Description:       Strada: STRADA STEFAN CEL MARE CU BLOC A , SCARA A - INTRERUPERE TOTALA. Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 15:40:31 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: CONSTANTA Localitate: CONSTANTA
+Description:       Strada: CARTIER KM 5, CU STRAZILE:  CIMBRULUI, LUCERNEI, CATINEI, RUGULUI, LEANDRILOR - INTRERUPERE TOTALA. Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:39:54 +0300
+
+Title:       27.05.2025 09:30 - 15:30  Judet: CONSTANTA Localitate: MANGALIA
+Description:       Strada: CU STRADA MARIN IONESCU DOBROGEANU - INTRERUPERE PARTIALA, CU ATELIER TAMPLARIE METALICA, HALE DEPOZITARE. Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 15:39:18 +0300
+
+Title:       27.05.2025 08:00 - 16:00  Judet: CONSTANTA Localitate: CONSTANTA
+Description:       Strada: ZONA COMPLEX 2 COCOSI, CU SPATIU COMERCIAL AGROSTAR SRL - B-DUL I.C. BRATIANU NR. 176 - INTRERUPERE TOTALA. Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:38:51 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: CONSTANTA Localitate: OVIDIU
+Description:       Strada: CU STRAZILE: NATIONALA, PORTULUI, MUGUREL, FULGERULUI, PAJISTEI, EGRETEI, RANDUNICII, LASTUNULUI, PAUNULUI, VULTURULUI, ZEFIRULUI, DELFINULUI, NUCILOR, POPORULUI, STRADA GHEORGHE HAGI (INCLUSIV ACADEMIA GHEORGHE HAGI) -INTRERUPERE PARTIALA. Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 15:38:19 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: CONSTANTA Localitate: CAPIDAVA -  INTRERUPERE TOTALA.
+Description:       Strada:  Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:37:43 +0300
+
+Title:       26.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: CARVAN MARE, CARVAN MIC, GORUNI, CUIGIUC
+Description:       Strada: CU PUNCT TRECERE FRONTIERA LIPNITA, ATELIER MECANIC SI CRAMA LIPNITA, CE APARTIN SC OSTROVIT SA, CASERIE LIPNITA - INTRERUPERE TOTALA. NOTA: LUCRARE ANULATA.	 Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:36:45 +0300
+
+Title:       29.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: CARVAN MARE, CARVAN MIC, GORUNI, CUIGIUC
+Description:       Strada: CU PUNCT TRECERE FRONTIERA LIPNITA, ATELIER MECANIC SI CRAMA LIPNITA, CE APARTIN SC OSTROVIT SA, CASERIE LIPNITA - INTRERUPERE TOTALA. NOTA: LUCRARE ANULATA.	 Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:35:21 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: CONSTANTA Localitate: TRAIAN -  INTRERUPERE TOTALA.
+Description:       Strada:  Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:33:58 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ACIUTA, DUMBRAVA, PLESCUTA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:32:38 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ACIUTA, DUMBRAVA, PLESCUTA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:32:38 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: ARAD Localitate: SIRIA(P)
+Description:       Strada: STR INDEPENDENTEI,N. BALCESCU, E. MONTIA, INAINTE, VLAD TEPES, CRISAN, TRAIAN MERA Numar: 
+Published:       Wed, 28 May 2025 15:31:44 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: ARAD Localitate: SEITIN(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:31:01 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: ARAD Localitate: SEITIN(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:31:01 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: ARAD Localitate: SEITIN(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:31:01 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: ARAD Localitate: SEITIN(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:31:01 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: ARAD Localitate: VALEA SOIMOSULUI(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:30:16 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: ARAD Localitate: VALEA SOIMOSULUI(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:30:16 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: ARAD Localitate: VALEA SOIMOSULUI(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:30:16 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZIMANDCUZ(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:29:28 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZIMANDCUZ(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:29:28 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZARAND(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:28:39 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZARAND(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:28:39 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZARAND(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:28:39 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZARAND(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:28:39 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: ARAD Localitate: ZARAND(P)
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 15:28:39 +0300
+
+Title:       30.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: CONSTANTA
+Description:       Strada: SOCIETATI COMERCIALE SITUATE IN INCINTA SOMACO SA: HALA SC METAXAS SRL, TIPOGRAFIA DACRIS PROD SRL, SERVICE AUTO TEMPO INVEST - B-DUL I. C. BRATIANU NR. 131 - INTRERUPERE TOTALA.	 Numar: Toate numerele
+Published:       Wed, 28 May 2025 15:24:04 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: LOC. NICULITEL
+Description:       Strada: - ABONATI CASNICI SI ECONOMICI LOC. NICULITEL STR. ISACCEI PARTIAL, STR. MESTERILOR, STR. GOSPODARILOR, STR. COCOSILOR PARTIAL SI STRAZILE ADIACENTE. Numar: 
+Published:       Wed, 28 May 2025 14:59:21 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: GIURGIU Localitate: BOLINTIN DEAL
+Description:       Strada: B-DUL MUNCII,STR 23AUGUST,STR PICTOR GRIGORESCU,STR BARBU LAUTARU Numar: 
+Published:       Wed, 28 May 2025 14:57:54 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: GIURGIU Localitate: BOLINTIN DEAL
+Description:       Strada: STRADA DISPENSARULUI, B-DUL MUNCII PARTIAL Numar: 
+Published:       Wed, 28 May 2025 14:54:07 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: GIURGIU Localitate: BOLINTIN DEAL
+Description:       Strada: STRADA REPUBLICII,STR MIHAIL SADOVEANU,STRADA ROSIEI PARTIAL Numar: 
+Published:       Wed, 28 May 2025 14:50:05 +0300
+
+Title:       05.06.2025 11:00 - 15:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: AGENTII ECONOMICI:DIRECTIA GENERALA DE ASISTENTA SOCIALA - GRADINITA NR.5 DUMBRAVA MINUNATA Numar: 
+Published:       Wed, 28 May 2025 14:19:27 +0300
+
+Title:       05.06.2025 11:00 - 15:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: ALEEA TUSNAD BL.2,2A,3,4,4A,5,7,BUZIAS BL.5,FAGARASULUI BL.3 Numar: 
+Published:       Wed, 28 May 2025 14:18:29 +0300
+
+Title:       05.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: AGENTII ECONOMICI:VIVARINI,PLAST LASGO,BRD,AGIL Numar: 
+Published:       Wed, 28 May 2025 14:16:07 +0300
+
+Title:       05.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: STR.FELIX BL.1,1A,B-DUL REPUBLICII BL.4 SC.1,2 Numar: 
+Published:       Wed, 28 May 2025 14:15:47 +0300
+
+Title:       06.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: AGENTII ECONOMICI:GRADINITA RIKI-PRIKI,PAROHIA ORTODOXA UCRAINEANA, PL MUNICIPIUL RESITA Numar: 
+Published:       Wed, 28 May 2025 14:11:25 +0300
+
+Title:       06.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: STR.ROMAN,HUNEDOARA BL.6,B-DUL MUNCII BL.5 Numar: 
+Published:       Wed, 28 May 2025 14:11:06 +0300
+
+Title:       04.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: AGENTII ECONOMICI:LEXAVY.CM DR.NECHIFOR LUCIAN SABIN,VALENTINO TRANS,C&amp;M OMEGA DENTAL,POLICLINICA POPOVICI PRAXIS,A&amp;C MAYA IMPEX Numar: 
+Published:       Wed, 28 May 2025 14:08:56 +0300
+
+Title:       04.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: STR.GALATI,PROGRESULUI BL.2,B-DUL MUNCII BL.8 Numar: 
+Published:       Wed, 28 May 2025 14:08:34 +0300
+
+Title:       03.06.2025 11:00 - 17:00  Judet: CARAS-SEVERIN Localitate: MONIOM
+Description:       Strada: AGENTII ECONOMICI:CODA SERV,RAR,ROPITEHNIC,MAMIAPREST, COS&amp;CRIS,MURES TRANS,RNP ROMSILVA,RCS&amp;RDS,PAROHIA ORTODOXA ROMANA, BISERICA CRESTINA SPERANTA,MGA-CARS SPEDITION,CN CAI FERATE CFR, INDRA GENERAL TRADING,PETRIMEX TRADING Numar: 
+Published:       Wed, 28 May 2025 14:05:38 +0300
+
+Title:       03.06.2025 11:00 - 17:00  Judet: CARAS-SEVERIN Localitate: MONIOM
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 14:03:21 +0300
+
+Title:       03.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: CALNIC
+Description:       Strada: AGENTII ECONOMICI:ORANGE,APELE ROMANE,NEW STYLE,TRANSPORT CONSULTING OFFICE,GIDONI,GENERAL SERVICE RAPID,GERANIMO,AQUACARAS, NESCAR,IJ POLITIE,MOL ROMANIA PETROLEUM,3D PLAST VIOCRIS,PARASCHIVU MIRELA,MAG LEONARD STEFAN,PAROHIA ORTODOXA ROMANA,MEGACOM IMPEX, CM DR.MILOS,COLEGIUL NATIONAL MIRCEA ELIADE Numar: 
+Published:       Wed, 28 May 2025 14:02:53 +0300
+
+Title:       03.06.2025 09:00 - 13:00  Judet: CARAS-SEVERIN Localitate: CALNIC
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:59:41 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: AGENTII ECONOMICI:MEDICAL PREST,SAXO GENERAL INSTAL,FAVORIT TAXI, COLUMNA Numar: 
+Published:       Wed, 28 May 2025 13:59:09 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: RESITA
+Description:       Strada: STR.FAGARASULUI BL.1,1A,2,3,4 Numar: 
+Published:       Wed, 28 May 2025 13:58:54 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CARASOVA,DSVSA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:57:28 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CARASOVA,DSVSA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:57:28 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CARASOVA,DSVSA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:57:28 +0300
+
+Title:       30.05.2025 10:00 - 18:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: PERIMETRUL CUPRINS INTRE : BD. ION MIHALACHE, STR. ARHITECT ION MINCU, STR. BARBU DELAVRANCEAA, STR. ADY ENDRE, STR. CLUCERULUI, STR. SERDARULUI. Numar: Toate numerele
+Published:       Wed, 28 May 2025 13:57:11 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: ILFOV Localitate: CIOLPANI
+Description:       Strada: SRD EVENTS SRL, SALON DE EVENIMENTE IRIS SI STRAZI ADIACENTE Numar: Toate numerele  Institutia: SRD EVENTS SRL,SALON DE EVENIMENTE IRIS
+Published:       Wed, 28 May 2025 13:56:50 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: GIROC
+Description:       Strada: STR. DACILOR , ROMANILOR , REMUS , ROMULUS Numar: 
+Published:       Wed, 28 May 2025 13:45:46 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: BOCSA-COLLINI SADOVEI
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:44:51 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: BOCSA
+Description:       Strada: AGENTII ECONOMICI:MOTEL IZVOR,SI TOP TOUR Numar: 
+Published:       Wed, 28 May 2025 13:44:18 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: URSENI
+Description:       Strada: STR. ZADA , CEDRULUI, POLOVRACI , CETINEI , DUMBRAVICIORA Numar: 
+Published:       Wed, 28 May 2025 13:43:48 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: BOCSA
+Description:       Strada: STR.IZVOR,PLOPILOR Numar: 
+Published:       Wed, 28 May 2025 13:42:55 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: IZVIN
+Description:       Strada: INTERLINER Numar: 
+Published:       Wed, 28 May 2025 13:41:59 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: DUDESTII NOI
+Description:       Strada: FOST IAS PORCI Numar: 
+Published:       Wed, 28 May 2025 13:40:54 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: SASCA MONTANA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:40:18 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: SACALAZ
+Description:       Strada: ZONA CARTIER VILE MFA Numar: 
+Published:       Wed, 28 May 2025 13:39:46 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: MOSNITA NOUA
+Description:       Strada: ZONA PE LANGA CENTURA , STR. DRUMUL BOILOR, STR.BASMULUI Numar: 
+Published:       Wed, 28 May 2025 13:38:38 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: SANANDREI
+Description:       Strada: STR. NUFERILOR , TINERETULUI , PRIMAVERII , SF. ANDREI , BATRANA Numar: 
+Published:       Wed, 28 May 2025 13:34:47 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: DUDESTII NOI
+Description:       Strada: STR. DECEBAL , NR 1 Numar: 
+Published:       Wed, 28 May 2025 13:32:05 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: SANANDREI
+Description:       Strada: NUFERILOR , BISERICII , VIOLETELOR Numar: 
+Published:       Wed, 28 May 2025 13:30:40 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: CORBEANCA
+Description:       Strada: STR ALBATROSULUI SI STRAZI ADIACENTE Numar: Toate numerele
+Published:       Wed, 28 May 2025 13:29:40 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: PISCHIA
+Description:       Strada: NR.307B Numar: 
+Published:       Wed, 28 May 2025 13:29:32 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: URSENI
+Description:       Strada: ZONA CARTIERUL TINERETULUI Numar: 
+Published:       Wed, 28 May 2025 13:28:33 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: SANANDREI
+Description:       Strada: STR. TINERETULUI Numar: 
+Published:       Wed, 28 May 2025 13:27:50 +0300
+
+Title:       05.06.2025 09:00 - 16:00  Judet: CARAS-SEVERIN Localitate: BAILE HERCULANE
+Description:       Strada: AGENTII ECONOMICI:GENECO GRYGORIN,L&amp;G BERRY EXCLUSIV, ROMSILVA,MD-MC STRAND 7 IZVOARE,RAFISAM STRAND,STEFANESCU PARASCHIVA, HERCULES,CIOPEC DOREL,SPEEH HIDROELECTRICA,LAITIN GEORGETA,VERTICAL SEREX Numar: 
+Published:       Wed, 28 May 2025 13:23:05 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CORNEREVA SAT BOJIA SI POGARA DE SUS
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:20:36 +0300
+
+Title:       05.06.2025 09:00 - 16:00  Judet: CARAS-SEVERIN Localitate: BAILE HERCULANE STR.VALEA CERNEI
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:20:14 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CORNEREVA SAT GOCICANI
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 13:18:58 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: LOC. GHIRODA (GIARMATA VII)
+Description:       Strada: STR. NARCISELOR, STR. BRANDUSEI, STR. PELICANULUI, STR. MAGURELOR Numar: 
+Published:       Wed, 28 May 2025 13:17:58 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: INTR. EUGEN T. MARINESCU NR. 2 Numar: 
+Published:       Wed, 28 May 2025 13:16:34 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: GRIGORE ALEXANDREI NR. 3-5-7, STR. SEVER BOCU NR. 43, STR. ION IONESCU DE LA BRAD (P), STR. GRIVU NICOLAE (P), STR. OSCHANITZKY RICHARD (P), STR. ACADEMICIAN PETRE P. NEGULESCU (P), STR. STUPARILOR (P), STR. SFINTII APOSTOLI PETRU SI PAVEL (P), STR. VERDE (P), STR. PETRE OLARIU Numar: 
+Published:       Wed, 28 May 2025 13:13:59 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: SANNICOLAU MARE
+Description:       Strada: STR.EFTIMIE MURGU , STR.ION LUCA CARAGIALE, STR.MIHAIL SADOVEANU , STR.ANDREICA, STR.ANDREI SAGUNA ,STR.GHEORGHE DOJA,STR.AUREL POPOVICI Numar: 
+Published:       Wed, 28 May 2025 13:03:46 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: MANASTIUR
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 13:02:03 +0300
+
+Title:       04.06.2025 08:00 - 16:00  Judet: TIMIS Localitate: BRESTOVAT
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 12:59:48 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: GRABATI-EXTRAVILAN
+Description:       Strada: SC INTER TEHNO FARM , SC ERFOLG Numar: 
+Published:       Wed, 28 May 2025 12:57:01 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: VARIAS
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 12:55:59 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: POVERGINA
+Description:       Strada:  Numar: Toate numerele
+Published:       Wed, 28 May 2025 12:55:12 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 12:53:08 +0300
+
+Title:       03.06.2025 08:00 - 16:00  Judet: TIMIS Localitate: BRESTOVAT
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 12:52:27 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: PADURANI
+Description:       Strada:  Numar: Toate numerele
+Published:       Wed, 28 May 2025 12:51:16 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TOPOLOVATU MARE
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 12:43:46 +0300
+
+Title:       02.06.2025 08:00 - 16:00  Judet: TIMIS Localitate: BRESTOVAT
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 12:42:54 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: STR. ION IONESCU DE LA BRAD (P), STR. GRIVU NICOLAE (P), STR. OSCHANITZKY RICHARD (P), STR. ACADEMICIAN PETRE P. NEGULESCU (P), STR. STUPARILOR (P), STR. SFINTII APOSTOLI PETRU SI PAVEL (P), STR. VERDE (P), STR. PETRE OLARIU Numar: 
+Published:       Wed, 28 May 2025 12:37:02 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: DUMBRAVITA
+Description:       Strada: STR. EMIL CIORAN (P) Numar: 
+Published:       Wed, 28 May 2025 12:36:02 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: GRIGORE ALEXANDREI NR. 3-5-7, STR. SEVER BOCU NR. 43, INTR. EUGEN T. MARINESCU NR. 2 Numar: 
+Published:       Wed, 28 May 2025 12:34:40 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: DUMBRAVITA
+Description:       Strada: STR. PHOENIX (P) Numar: 
+Published:       Wed, 28 May 2025 12:31:27 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: PIATA LIBERTATII (P), STR. TIMISOARA 700 (P), STR. PIATA VICTORIEI (P), STR. EMANOIL UNGUREANU (P), STR. EUGENIU DE SAVOYA (P), STR. ALBA IULIA (P), STR. VASILE ALECSANDRI (P), STR. COLONEL ION ENESCU (P), STR. VICTOR VLAD DELAMARINA (P), STR. PARIS (P), STR. CORIOLAN BREDICEANU (P), CALEA SAGULUI NR. 86 Numar: 
+Published:       Wed, 28 May 2025 12:30:28 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: LETEA (P), STR. ARIADNA (P), STR. COTOSMAN GHEORGHE (P), STR. PANSELELOR (P), B-DUL C-TIN BRANCOVEANU NR. 127-161, STR. MUSICESCU GAVRIL (P), STR. EMILE ZOLA (P), STR. HEBE (P), STR. MURES(P), STR. UDREA IOAN (P) Numar: 
+Published:       Wed, 28 May 2025 12:29:14 +0300
+
+Title:       02.06.2025 09:30 - 17:30  Judet: CARAS-SEVERIN Localitate: PRILIPET
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 12:28:22 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: GHIRODA
+Description:       Strada: STR. AEROPORT NR. 2 (AEROPORTUL INTERNATIONAL TIMISOARA  - TRAIAN VUIA) Numar: 
+Published:       Wed, 28 May 2025 12:26:01 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: TIMIS Localitate: TIMISOARA
+Description:       Strada: STR. EMIL ZOLA (P) STR. BUJORILOR (P), STR. BUJORILOR (P), STR. MARTIR PETRU HATEGANU (P), STR. BARBU LAUTARU (P),  ALEEA NICORESTI (P), STR. CERCULUI (P), STR. CHISODEI (P) Numar: 
+Published:       Wed, 28 May 2025 12:25:01 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CORNUTEL	
+Description:       Strada: AGENTII ECONOMICI:PRIMARIE,ROMTELECOM,RCS&amp;RDS,ORANGE,VODAFONE Numar: 
+Published:       Wed, 28 May 2025 11:39:21 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CORNUTEL	
+Description:       Strada: AGENTII ECONOMICI:PRIMARIE,ROMTELECOM,RCS&amp;RDS,ORANGE,VODAFONE Numar: 
+Published:       Wed, 28 May 2025 11:39:21 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CORNUTEL	
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 11:37:04 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CORNUTEL	
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 11:37:04 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: ZORLINCIOR,ROMTELECOM,RCS&amp;RDS
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 11:36:03 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: ZORLINCIOR,ROMTELECOM,RCS&amp;RDS
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 11:36:03 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: ZORLINCIOR,ROMTELECOM,RCS&amp;RDS
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 11:36:03 +0300
+
+Title:       30.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: CONSTANTA
+Description:       Strada: ZONA PENINSULARA,  CU STRADA CALLATIS, POMPE RAJA- STRADA CALLATIS NR 6 , BISERICA ARMEANA SF. MARIA - INTRERUPERE PARTIALA Numar: Partial toate numerele
+Published:       Wed, 28 May 2025 11:30:12 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: BUCURESTI Localitate: BUCURESTI SECTROR.2
+Description:       Strada: STRA RADOVANU BL.43,BL.44,BL.45  STRA BACILA VASILE, BL.32,BL.33,BL.33A,BL.34,BL.34A.  
+Published:       Wed, 28 May 2025 11:11:21 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CRUSOVITA,VALEA RAVENSCA,VALEA GRAMENSCA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 10:49:42 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CRUSOVITA,VALEA RAVENSCA,VALEA GRAMENSCA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 10:49:42 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CRUSOVITA,VALEA RAVENSCA,VALEA GRAMENSCA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 10:49:42 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CRUSOVITA,VALEA RAVENSCA,VALEA GRAMENSCA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 10:49:42 +0300
+
+Title:       02.06.2025 09:00 - 17:00  Judet: CARAS-SEVERIN Localitate: CRUSOVITA,VALEA RAVENSCA,VALEA GRAMENSCA
+Description:       Strada:  Numar: 
+Published:       Wed, 28 May 2025 10:49:42 +0300
+
+Title:       05.06.2025 09:00 - 17:00  Judet: ILFOV Localitate: SNAGOV,SAT VLADICEASCA
+Description:       Strada: STR RENASTERII, GEORGE ENESCU, CASA MALIH, CASA SECU, ABI VLADICEASCA SI STRAZI ADIACENTE Numar: Toate numerele  Institutia: Casa Malih, Casa Secu, ABI Vladiceasca
+Published:       Wed, 28 May 2025 09:33:24 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: LUPENI
+Description:       Strada: STR. CALEA BRAII (PARTIAL), NARCISELOR, CASTANILOR, SC DIACOM SRL, BCR-SUCURSALA LUPENI, FARMACIA CATENA, FARMACIA DONA, SC TUNDRA SRL, SC MARIUS COM SRL, MAGAZIN VODAFONE Numar: 
+Published:       Wed, 28 May 2025 09:30:54 +0300
+
+Title:       04.06.2025 09:00 - 17:00  Judet: ILFOV Localitate: BALOTESTI
+Description:       Strada: STR EROU MARIA MOLDOVEANU, DUMBRAVEI, DEALU BISERICII, LACULUI, ORHIDEELOR, ION LAHOVARI INTRE STR DEALU BISERICII SI STR ZORI DE ZI SI STRAZI ADIACENTE Numar: Toate numerele
+Published:       Wed, 28 May 2025 09:30:42 +0300
+
+Title:       03.06.2025 09:00 - 17:00  Judet: ILFOV Localitate: BALOTESTI
+Description:       Strada: STR FIENI, BROSCARI, MARTHA BIBESCU, STEJARILOR, INTRAREA PUNTII, CASTANILOR, IC BRATIANU INTRE STR UNIRII SI STR ION LAHOVARI SI STRAZI ADIACENTE Numar: Toate numerele
+Published:       Wed, 28 May 2025 09:28:49 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: ARAD Localitate: DUMBRAVITA, GROSII-NOI, SLATINA DE MURES
+Description:       Strada:  Numar: 
+Published:       Tue, 27 May 2025 15:40:28 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: LOC. REVARSAREA
+Description:       Strada: - ABONATI CASNICI SI ECONOMICI LOC. REVARSAREA PARTIAL, PIATRA CALCATA REVARSAREA, PEPINIERA RACHELU, CDL PRODCOM, LATA VACARENI Numar: 
+Published:       Tue, 27 May 2025 15:03:22 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: PASAREA
+Description:       Strada: STR. CALEA BUCURESTI , CLUJ , TIMISOARA , DEVA , ALBA IULIA , CONSTANTA , BRASOV Numar: 
+Published:       Tue, 27 May 2025 13:28:53 +0300
+
+Title:       06.06.2025 09:00 - 17:00  Judet: GIURGIU Localitate: OBEDENI
+Description:       Strada: STR. CAMPULUI FOST CAP Numar: 
+Published:       Tue, 27 May 2025 13:11:02 +0300
+
+Title:       28.05.2025 00:00 - 06:00 (scurte intreruperi in acest interval) Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: INTR.FERENTARI 72 , SERG.TURTURICA , CARTOJANI Numar: Partial toate numerele
+Published:       Tue, 27 May 2025 12:52:01 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: LOC. NUFARU SI LOC. VICTORIA
+Description:       Strada: - ABONATI CASNICI SI ECONOMICI LOC. NUFARU, UM VICTORIA, LOC VICTORIA Numar: 
+Published:       Tue, 27 May 2025 11:02:58 +0300
+
+Title:       30.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATILE PLATONESTI SI LACUSTENI, INTRERUPERE TOTALA
+Description:       Strada:  Numar: 
+Published:       Tue, 27 May 2025 08:58:13 +0300
+
+Title:       26.05.2025 09:10 - 17:10  Judet: TIMIS Localitate: REMETEA MARE
+Description:       Strada: FOST SMA, FASHION STONE, SABIKO, STR. A I - A , A II - A , A III - A , A IV - A ) Numar: 
+Published:       Tue, 27 May 2025 08:50:16 +0300
+
+Title:       30.05.2025 09:00 - 15:00  Judet: CARAS-SEVERIN Localitate: CONSTANTIN DAICOVICIU
+Description:       Strada:  Numar: 
+Published:       Tue, 27 May 2025 08:31:12 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: STR. MARAMURES TRONSON SITUAT INTRE STRADA DINICU GOLESCU SI STRADA BERZEI Numar: 
+Published:       Tue, 27 May 2025 07:45:00 +0300
+
+Title:       26.05.2025 08:30 - 16:30  Judet: CARAS-SEVERIN Localitate: DOGNECEA
+Description:       Strada:  Numar: 
+Published:       Mon, 26 May 2025 16:46:01 +0300
+
+Title:       26.05.2025 08:30 - 16:30  Judet: CARAS-SEVERIN Localitate: DOGNECEA
+Description:       Strada: AGENTII ECONOMICI:BALSAM FARM PLUS,BISERICA CRESTINA BAPTISTA, BISERICA EBEN EZER,CM DR.STANESCU DUMITRU,CENTRUL DE ZI CASA NOASTRA,CLR DENIS MONTAJ,COLLINI,CN POSTA ROMANA,DAMAR UNIVERSAL, EANA FLORICA,FORUMUL DEMOCRAT GERMAN,FUNDATIA SANCTA MARIA HILFE, MANDA ANDREI SI ANDREEA LEO,ORANGE,PAROHIA ORTODOXA ROMANA,PAROHIA ROMANO CATOLICA,SN RADIOCOMUNICATII,TICA BALTEAN,VALDOR&amp;PAULA Numar: 
+Published:       Mon, 26 May 2025 16:45:13 +0300
+
+Title:       27.05.2025 00:00 - 06:00 (scurte intreruperi in acest interval) Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: CALEA FERENTARI 72,SREGENT TURTURICA,CRTOJANI Numar: Partial toate numerele
+Published:       Mon, 26 May 2025 15:46:09 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: NUCI
+Description:       Strada: SAT MERII PETCHI SI SUDITI IN INTREGIME Numar: Toate numerele  Institutia: sat Merii Petchi si Suditi in intregime
+Published:       Mon, 26 May 2025 15:02:38 +0300
+
+Title:       30.05.2025 09:00 - 17:00 (intreruperi de scurta durata in intervalul mentionat ) Judet: CONSTANTA Localitate: NAVODARI
+Description:       Strada: CU ZONA MAMAIA SAT SI ZONA MAMAIA NORD - INTRERUPERI DE SCURTA DURATA IN INTERVALUL MENTIONAT. Numar: Toate numerele
+Published:       Mon, 26 May 2025 14:23:03 +0300
+
+Title:       29.05.2025 09:00 - 17:00 (intreruperi de scurta durata in intervalul mentionat ) Judet: CONSTANTA Localitate: NAVODARI
+Description:       Strada: CU ZONA MAMAIA SAT SI ZONA MAMAIA NORD - INTRERUPERI DE SCURTA DURATA IN INTERVALUL MENTIONAT. Numar: Toate numerele
+Published:       Mon, 26 May 2025 14:22:32 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: BUCES
+Description:       Strada:  Numar: 
+Published:       Mon, 26 May 2025 14:13:21 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: BUCES
+Description:       Strada:  Numar: 
+Published:       Mon, 26 May 2025 14:13:20 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: BUFTEA
+Description:       Strada: CARTIER BLOCURI SIMA PROD INTRAREA BUCURESTI-TARGOVISTE NR 19 SI STRAZI ADIACENTE Numar: Toate numerele  Institutia: Blocuri Intrarea Bucuresti-Targoviste nr 19 SIMA PROD Buftea
+Published:       Mon, 26 May 2025 10:37:39 +0300
+
+Title:       30.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: COSLUGEA SI SATU NOU (OLTINA) - INTRERUPERE TOTALA
+Description:       Strada: LUCRARE ANULATA Numar: Toate numerele
+Published:       Mon, 26 May 2025 10:01:04 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: PERIMETRUL CUPRINS INTRE: BD. IANCU DE HUNEDOARA, STR. LONDRA, STR. WASHINGTON, STR. ROMA. Numar: Toate numerele
+Published:       Mon, 26 May 2025 09:57:33 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: DOMNESTI SAT TEGHES
+Description:       Strada: EMANCIPARII,CARAGEA VODA,NEGUSTORILOR,ZMEUREI,LATINA LACRAMIOAREI,TREI BRAZI,STR. ADIACENTE Numar: Toate numerele
+Published:       Mon, 26 May 2025 09:25:54 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: BRAGADIRU
+Description:       Strada: GAROFITEI,ARGES,VRABIEI,MARASESTI,TARGULUI,UNIRII,STR. ADIACENTE Numar: Toate numerele
+Published:       Mon, 26 May 2025 09:17:52 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: BRAGADIRU
+Description:       Strada: DIAMANTULUI,SAFIRULUI,CARTIER AMBASADOR,STR. ADIACENTE Numar: Toate numerele
+Published:       Mon, 26 May 2025 09:06:59 +0300
+
+Title:       28.05.2025 09.00 - 17.00  Judet: ILFOV Localitate: VOLUNTARI
+Description:       Strada: EMIL RACOVITA 29(VILE) Numar: 
+Published:       Sun, 25 May 2025 12:34:19 +0300
+
+Title:       28.05.2025 09:30 - 15:00  Judet: ILFOV Localitate: VOLUNTARI
+Description:       Strada: B-DUL PIPERA 146-146 BIS Numar: 
+Published:       Sun, 25 May 2025 11:23:35 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: SCHITUL DARVARI Numar: 
+Published:       Sun, 25 May 2025 11:18:46 +0300
+
+Title:       28.05.2025 10:00 - 18:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: PERIMETRUL CUPRINS INTRE : BD. ION MIHALACHE, STR. ALEXANDRU CAMPEANU, STR. GENERAL VLADOIANU BARBU, STR. ION NECULCE, STR. TEODOSIE RUDEANU, STR. PETRU MAIOR, STR. CAPITAN OCTAV COCARASCU, STR. GALA GALACTION. Numar: Toate numerele
+Published:       Fri, 23 May 2025 21:51:40 +0300
+
+Title:       28.05.2025 10:00 - 18:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: PERIMETRUL CUPRINS INTRE : BD. ION MIHALACHE, STR. ARHITECT  ION MINCU, STR. BARBU DELAVRANCEAA, STR. ADY ENDRE, STR. CLUCERULUI, STR. SERDARULUI. Numar: Toate numerele
+Published:       Fri, 23 May 2025 21:36:40 +0300
+
+Title:       27.05.2025 10:00 - 18:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: PERIMETRUL CUPRINS INTRE : BD. ION MIHALACHE, STR. ARHITECT  ION MINCU, STR. BARBU DELAVRANCEAA, STR. ADY ENDRE, STR. CLUCERULUI, STR. SERDARULUI. Numar: Toate numerele
+Published:       Fri, 23 May 2025 21:36:40 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: CONSTANTA Localitate: OVIDIU
+Description:       Strada: CU STRAZILE: NATIONALA, PORTULUI, MUGUREL, FULGERULUI, PAJISTEI, EGRETEI, RANDUNICII, LASTUNULUI, PAUNULUI, VULTURULUI, ZEFIRULUI, DELFINULUI, NUCILOR, POPORULUI, STRADA GHEORGHE HAGI (INCLUSIV ACADEMIA GHEORGHE HAGI) - INTRERUPERE PARTIALA Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 15:24:05 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: BUCURESTI Localitate: BUCURESTI
+Description:       Strada: STR BOJA , CRISUL REPEDE , PLANETEI Numar: Toate numerele
+Published:       Fri, 23 May 2025 14:55:46 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: BOLINTIN DEAL
+Description:       Strada: STRADA PRIMAVERII Numar: 
+Published:       Fri, 23 May 2025 13:03:04 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: ARAD Localitate: NEUDORF(P)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:57:17 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: ARAD Localitate: PAULIS(P)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:57:06 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: ARAD Localitate: SOIMOS(P)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:56:54 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: ARAD Localitate: SOIMOS(P)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:56:54 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: OBEDENI
+Description:       Strada: LOCALITATEA OBEDENI Numar: 
+Published:       Fri, 23 May 2025 12:52:18 +0300
+
+Title:       27.05.2025 09:00 - 17:00 (va fi intrerupere de cca 2 ore intre acest interval) Judet: GIURGIU Localitate: VADU LAT
+Description:       Strada: LOCALITATEA   VADU LAT Numar: 
+Published:       Fri, 23 May 2025 12:49:39 +0300
+
+Title:       27.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: MUNICIPIUL SLOBOZIA
+Description:       Strada: CARTIER BORA, STR: PRELUNGIREA MAGURII (ZONA AGENTI ECONOMICI FOST IAS), PAPADIEI (LOCUINTE FOST IAS), LIVEZII, INTRAREA LUNCII, LUNCII, VASILE ROAITA, MAXIM GORKI (DE LA STR. VASILE ROAITA LA STRADA CARE URCA SPRE FERMA AVICOLA SLOBOZIA) SI AGENTI ECONOMICI: BAYRAN COM SRL, BALKAN DRINKS SRL, ADAMIZAR, SANALACT SRL Numar: 
+Published:       Fri, 23 May 2025 12:43:00 +0300
+
+Title:       29.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATEA SAVENI, INTRERUPERE PARTIALA
+Description:       Strada: ZONA CENTRU-SCOALA-PRIMARIE, STR: ALEXANDRU IOAN CUZA, NICOLAE IORGA, STEFAN CEL MARE, MIRILOR, MIHAI EMINESCU, DR. SERGIU MARCOCI, PREOT NICOLAE BARZOI Numar: 
+Published:       Fri, 23 May 2025 12:29:42 +0300
+
+Title:       26.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: ORASUL TANDAREI, INTRERUPERE PARTIALA, CLIENTII: OUAI ALISEO,  FERMA AGRO ZOB TANDAREI, EXTRAVILAN
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:25:47 +0300
+
+Title:       27.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATEA FACAENI, INTRERUPERE PARTIALA
+Description:       Strada: ZONA SEDIUL ANIF, STR: ISLAZULUI, DUNARII, ALEEA VANATORULUI, ALEEA IZVORULUI, OSTROVULUI,  PRUTULUI, LUMINISULUI, CAMENITA, IALOMITEI Numar: 
+Published:       Fri, 23 May 2025 12:22:58 +0300
+
+Title:       26.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATEA FACAENI, INTRERUPERE PARTIALA
+Description:       Strada: ZONA SEDIUL ANIF, STR: ISLAZULUI, DUNARII, ALEEA VANATORULUI, ALEEA IZVORULUI, OSTROVULUI,  PRUTULUI, LUMINISULUI, CAMENITA, IALOMITEI Numar: 
+Published:       Fri, 23 May 2025 12:22:58 +0300
+
+Title:       29.05.2025 07:30 - 15:30  Judet: CALARASI Localitate: LOCALITATEA ILEANA-ZONA EXTRAVILAN, GRUP SONDE - INTRERUPERE PARTIALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:21:22 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATEA ULMU, ZONA EXTRAVILAN (MIREA CLAUDIU -IRIGATII) - INTRERUPERE PARTIALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:20:47 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATEA VALEA PRESNEI, STR. BALTII - INTRERUPERE PARTIALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:15:14 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATILE DALGA, BOGDANA, PELINU - INTRERUPERE TOTALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 12:14:07 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: AFUMATI
+Description:       Strada: STR . PETRECHIOAIA , TUFANULUI Numar: 
+Published:       Fri, 23 May 2025 12:06:25 +0300
+
+Title:       28.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATEA ROVINE, INTRERUPERE PARTIALA
+Description:       Strada: STR: I. C. BRATIANU, CUZA VODA, TRANDAFIRULUI (DE LA SOS. REVIGA SPRE EST), RASARITULUI SI VIILOR (DE LA STR. EROU DUMITRU ROMA SPRE EST), EROU DUMITRU ROMA (DE LA STR. M. EMINESCU LA STR. VIILOR) Numar: 
+Published:       Fri, 23 May 2025 11:51:20 +0300
+
+Title:       28.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: MUNICIPIUL SLOBOZIA
+Description:       Strada: ALEEA SPORTURILOR, BLOC B13, SCARA C Numar: 
+Published:       Fri, 23 May 2025 11:50:26 +0300
+
+Title:       27.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: INTRERUPERE INDIVIDUALA CLIENT: ILIE VASILE INTREPRINDERE INDIVIDUALA (LOCALITATEA OREZU)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:49:29 +0300
+
+Title:       27.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATEA ROVINE, INTRERUPERE PARTIALA
+Description:       Strada: STR: I. C. BRATIANU, CUZA VODA, TRANDAFIRULUI (DE LA SOS. REVIGA SPRE EST), RASARITULUI SI VIILOR (DE LA STR. EROU DUMITRU ROMA SPRE EST), EROU DUMITRU ROMA (DE LA STR. M. EMINESCU LA STR. VIILOR) Numar: 
+Published:       Fri, 23 May 2025 11:48:40 +0300
+
+Title:       26.05.2025 08:30 - 16:30  Judet: IALOMITA Localitate: LOCALITATILE PALTINISU SI STEJARU, INTRERUPERE TOTALA, INCLUSIV AGENTII ECONOMICI: RETELE ELECTRICE SLOBOZIA - MAGAZIA CENTRALA, ELECTRICA SERV, CENTRU DE MENTENANTA SLOBOZIA-SC SMART SA, NPK SOIL PALTINISU (NPK SOIL, AGRICOLOURS DESIGN, ROFERT ROM��NIA), PINDU EXIM PALTINISU, AUTO CHECK CENTER-OYL COMPANY LOGISTIC PALTINISU, ORIZONT SRL PALTINISU, OYL EXPERT PAVAJE SRL PALTINISU, AVICOLA SLOBOZIA SA - FERMA +FNC PERIETI
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:47:45 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATEA CHIRNOGI, FERMA DE PORCI, FERMA AGRICOLA 8 MARTIE SI AGROMEC SEDIU - INTRERUPERE PARTIALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:40:35 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: BUCES
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:40:12 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATEA CRIVAT - INTRERUPERE TOTALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:39:44 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: IALOMITA Localitate: LOCALITATEA LIVEDEA, INTRERUPERE TOTALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:36:35 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: IALOMITA Localitate: LOCALITATILE: ROSIORI, BITINA SI CHIROIU, INTRERUPERE TOTALA INCLUSIV AGENTII ECONOMICI DIN ZONA, SCOALA ROSIORI, SEDIUL PRIMMARIA ROSIORI
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:35:51 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SIMERIA
+Description:       Strada: STR. IOAN SLAVICI, TRAIAN (PARTIAL), GRIVITEI, PLEVNEI, SOSEAUA NATIONALA (PARTIAL) Numar: 
+Published:       Fri, 23 May 2025 11:35:05 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SIMERIA
+Description:       Strada: STR. IOAN SLAVICI, TRAIAN (PARTIAL), GRIVITEI, PLEVNEI, SOSEAUA NATIONALA (PARTIAL) Numar: 
+Published:       Fri, 23 May 2025 11:35:05 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SIMERIA
+Description:       Strada: STR. IOAN SLAVICI, TRAIAN (PARTIAL), GRIVITEI, PLEVNEI, SOSEAUA NATIONALA (PARTIAL) Numar: 
+Published:       Fri, 23 May 2025 11:35:05 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VORTA, VALEA POIENII, VISCA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:34:05 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VORTA, VALEA POIENII, VISCA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:34:05 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VORTA, VALEA POIENII, VISCA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:34:05 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VORTA, VALEA POIENII, VISCA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:34:05 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: UROI, LESNIC (PARTIAL), BARCEA MICA (PARTIAL)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:32:56 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: UROI, LESNIC (PARTIAL), BARCEA MICA (PARTIAL)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:32:56 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: IALOMITA Localitate: LOCALITATEA LILIECI, INTRERUPERE PARTIALA
+Description:       Strada: STR: NARCISELOR, CRINULUI, PIERSICULUI, GAROAFELOR Numar: 
+Published:       Fri, 23 May 2025 11:32:20 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: IALOMITA Localitate: LOCALITATEA COSERENI, INTRERUPERE PARTIALA, PE DN DE LA STATIA DE AUTOBUZ PANA LA IESIRE CATRE URZICENI SI IESIRE CATRE DRIDU
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:31:11 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: BOLINTIN DEAL
+Description:       Strada: B-DUL MUNCII,STR DISPENSARULUI,STR LAUTARII VECHI Numar: 
+Published:       Fri, 23 May 2025 11:21:08 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: BOLINTIN DEAL
+Description:       Strada: STR REPUBLICII,STR MIHAIL SADOVEANU,STE EMANUEL BUCUTA Numar: 
+Published:       Fri, 23 May 2025 11:19:13 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet:  Localitate: BOLINTIN DEAL
+Description:       Strada: STRADA REPUBLICII, STR MIHAIL SADOVEANU Numar: 
+Published:       Fri, 23 May 2025 11:15:16 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: TOPLITA, HASDAU, DABACA, VALARI, GOLES, MLADIN
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:07:31 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: TOPLITA, HASDAU, DABACA, VALARI, GOLES, MLADIN, DEALU MIC,  GHELARI (PARTIAL: STR. TRANSILVANIEI PORTIUNEA SPRE DEALU MIC)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:07:00 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: NADASTIA INFERIOARA, NADASTIA SUPERIOARA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 11:06:40 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: TURDAS (PARTIAL DE LA FERMA PANA LA BISERICA ORTODOXA), BOBALNA, FOLT, BOIU, CIGMAU
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:54:00 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: PETROSANI
+Description:       Strada: STR. GHE. LAZAR, STEFAN CEL MARE, INSTITUTULUI, 16 FEBRUARIE, MUNCII (PARTAL) Numar: 
+Published:       Fri, 23 May 2025 10:53:28 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: PETROSANI
+Description:       Strada: STR. GHE. LAZAR, STEFAN CEL MARE, INSTITUTULUI, 16 FEBRUARIE, MUNCII (PARTAL) Numar: 
+Published:       Fri, 23 May 2025 10:53:28 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SUSENI, PUI (PARTIAL ��� ZONA GARII)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:52:51 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SUSENI, PUI (PARTIAL ��� ZONA GARII)
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:52:51 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: CALANU MIC
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:52:21 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: DANCU MARE, DANCU MIC, GRID
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:51:58 +0300
+
+Title:       26.05.2025 09:00 - 15:00  Judet: HUNEDOARA Localitate: BERIU: ZONA CAP BERIU
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:51:37 +0300
+
+Title:       30.05.2025 08:30 - 15:30  Judet: TIMIS Localitate: NITCHIDORF
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 10:51:09 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VULCAN
+Description:       Strada: STR. CRIVIDIA, MERISOR, BUCIUMANI, IZVOR, DEALU BABII, FILTRE APA EM VULCAN Numar: 
+Published:       Fri, 23 May 2025 10:50:51 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VULCAN
+Description:       Strada: STR. CRIVIDIA, MERISOR, BUCIUMANI, IZVOR, DEALU BABII, FILTRE APA EM VULCAN Numar: 
+Published:       Fri, 23 May 2025 10:50:51 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: VULCAN
+Description:       Strada: STR. CRIVIDIA, MERISOR, BUCIUMANI, IZVOR, DEALU BABII, FILTRE APA EM VULCAN Numar: 
+Published:       Fri, 23 May 2025 10:50:51 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SINCRAI
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:50:09 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: SINCRAI
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 10:50:09 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: URICANI
+Description:       Strada: STR. CAREMAN, PRINCIPALA (PARTIAL), MURGONILOR, BEKA, MAILAT Numar: 
+Published:       Fri, 23 May 2025 10:49:18 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: URICANI
+Description:       Strada: STR. CAREMAN, PRINCIPALA (PARTIAL), MURGONILOR, BEKA, MAILAT Numar: 
+Published:       Fri, 23 May 2025 10:49:18 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: URICANI
+Description:       Strada: STR. CAREMAN, PRINCIPALA (PARTIAL), MURGONILOR, BEKA, MAILAT Numar: 
+Published:       Fri, 23 May 2025 10:49:18 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: URICANI
+Description:       Strada: STR. CAREMAN, PRINCIPALA (PARTIAL), MURGONILOR, BEKA, MAILAT Numar: 
+Published:       Fri, 23 May 2025 10:49:18 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: HUNEDOARA Localitate: URICANI
+Description:       Strada: STR. CAREMAN, PRINCIPALA (PARTIAL), MURGONILOR, BEKA, MAILAT Numar: 
+Published:       Fri, 23 May 2025 10:49:18 +0300
+
+Title:       31.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: DETA
+Description:       Strada: STR.MIHAI EMINESCU, STR.VICTORIEI STANGA-DREAPTA (P), ESSEGI TEX,NIADAL ABATEX Numar: 
+Published:       Fri, 23 May 2025 10:46:35 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: FERENDIA
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 10:44:02 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: RUDNA
+Description:       Strada:  Numar: Toate numerele
+Published:       Fri, 23 May 2025 10:25:48 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: GIERA
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 10:24:40 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: DETA
+Description:       Strada: STR.TRANDAFIRILOR, CALEA VOITEGULUI, TG MARE(P), DEPOZIT GOROLIUB Numar: 
+Published:       Fri, 23 May 2025 10:22:13 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: SARICHIOI
+Description:       Strada: LOC SARICHIOI CU STRAZILE: PRINCIPALA, CETATII, TRANDAFIRILOR, NUCILOR, VETERNILOR, DOINEI, LINISTII, VIITORULUI, GRADISTEI Numar: 
+Published:       Fri, 23 May 2025 10:21:32 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: SLAVA RUSA
+Description:       Strada: SLAVA RUSA CU STRAZILE : PRINCIPALA, MORII, DARONEA Numar: 
+Published:       Fri, 23 May 2025 10:17:59 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: SLAVA RUSA
+Description:       Strada: SLAVA RUSA CU STRAZILE : MARE, MANASTIREA USPENIC, IBIDA, CAMINULUI, CODRULUI, GRADINITEI Numar: 
+Published:       Fri, 23 May 2025 10:16:00 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: GHERMAN, CLOPODIA
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 10:12:36 +0300
+
+Title:       30.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: SULINA
+Description:       Strada: ABONATI CASNICI SI ECONOMICI LOC. SULINA STR.A-II-A, BL 208 SC A SI SC B Numar: 
+Published:       Fri, 23 May 2025 09:55:49 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: TULCEA Localitate: DUNAVATUL DE SUS
+Description:       Strada: ABONATI CASNICI SI ECONOMICI LOC. DUNAVATUL DE JOS, DUNAVATUL DE SUS, CETATEA HALMYRIS, MANASTIREA HALMYRIS, STATIILE FUNDEA Numar: 
+Published:       Fri, 23 May 2025 09:55:11 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATILE CUZA VODA, CEACU - INTRERUPERE TOTALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 09:45:12 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATEA BORCEA, ZONA UM BARAGANU - INTRERUPERE PARTIALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 09:44:57 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: CALARASI Localitate: LOCALITATEA PERISORU, ZONA CAMP - INTRERUPERE PARTIALA
+Description:       Strada:  Numar: 
+Published:       Fri, 23 May 2025 09:44:46 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: BUFTEA
+Description:       Strada: BLOCURI INTRAREA BUCURESTI-TARGOVISTE NR 19 SIMA PROD BUFTEA Numar: Toate numerele  Institutia: Blocuri Intrarea Bucuresti-Targoviste nr 19 SIMA PROD Buftea
+Published:       Fri, 23 May 2025 09:21:24 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: ILFOV Localitate: OTOPENI
+Description:       Strada: STRADA I. C. BRATIANU T 15 COMPLEX REZIDENTIAL GENERAL GRAND BUILD Numar: 
+Published:       Fri, 23 May 2025 09:06:18 +0300
+
+Title:       29.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: CAMINEASCA
+Description:       Strada: STR GHIOCELULUI , STR CRINULUI , STR FICUSULUI , MICSUNELEI . STR CRIZANTEMEI , STR MUSCATEI , STR LILIACULUI Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:30:03 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: CAMINEASCA
+Description:       Strada: STR GHIOCELULUI , STR CRINULUI , STR FICUSULUI , MICSUNELEI . STR CRIZANTEMEI , STR MUSCATEI , STR LILIACULUI Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:30:03 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: GIURGIU Localitate: CAMINEASCA
+Description:       Strada: STR GHIOCELULUI , STR CRINULUI , STR FICUSULUI , MICSUNELEI . STR CRIZANTEMEI , STR MUSCATEI , STR LILIACULUI Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:30:03 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:17:12 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:17:12 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet: TIMIS Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:17:12 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet:  Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:16:03 +0300
+
+Title:       27.05.2025 09:00 - 17:00  Judet:  Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:16:03 +0300
+
+Title:       26.05.2025 09:00 - 17:00  Judet:  Localitate: LUGOJEL
+Description:       Strada:  Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 08:16:03 +0300
+
+Title:       28.05.2025 09:00 - 17:00  Judet: BUCURESTI Localitate: BUCURESTI SECTOR 6
+Description:       Strada: MAGNOLIEI ,MARACINENI,PR GHENCEA,DONITEI,PADUREA TAUZULUI,INT FLOARE GALBENA,STR ADIACENTE Numar: Toate numerele
+Published:       Fri, 23 May 2025 08:08:05 +0300
+
+Title:       28.05.2025 08:30 - 16:30  Judet: CONSTANTA Localitate: COSTINESTI
+Description:       Strada: CU INCINTA B.T.T. Numar: Toate numerele
+Published:       Fri, 23 May 2025 07:05:02 +0300
+
+Title:       28.05.2025 08:00 - 16:00  Judet: CONSTANTA Localitate: EFORIE SUD
+Description:       Strada: CU STRADA MARII- INTRERUPERE PARTIALA. Numar: Partial toate numerele
+Published:       Fri, 23 May 2025 07:04:11 +0300
